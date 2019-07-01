@@ -19,7 +19,7 @@ export class PolicePage extends Component {
                 </div>
                 <div className='flex-1 text-right md:text-center'>
                   <h5 className='font-bold uppercase text-gray-500'>Hotels</h5>
-                  <h3 className='font-bold text-3xl'>405</h3>
+                  <h3 className='font-bold text-3xl'>3</h3>
                 </div>
               </div>
             </div>
@@ -39,7 +39,7 @@ export class PolicePage extends Component {
                   <h5 className='font-bold uppercase text-gray-500'>
                     Visitors
                   </h5>
-                  <h3 className='font-bold text-3xl'>4,000</h3>
+                  <h3 className='font-bold text-3xl'>14</h3>
                 </div>
               </div>
             </div>
@@ -59,12 +59,7 @@ export class PolicePage extends Component {
                   <h5 className='font-bold uppercase text-gray-500'>
                     Compliance
                   </h5>
-                  <h3 className='font-bold text-3xl'>
-                    3, 000
-                    <span className='text-yellow-600'>
-                      <i className='fas fa-caret-up' />
-                    </span>
-                  </h3>
+                  <h3 className='font-bold text-3xl'>14</h3>
                 </div>
               </div>
             </div>

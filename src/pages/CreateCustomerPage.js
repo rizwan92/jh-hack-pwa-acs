@@ -37,7 +37,7 @@ export class CreateCustomerPage extends Component {
           });
         } else {
           if (res.status === 200) {
-            this.props.alert.show('User Added', {
+            this.props.alert.show('Transaction Successful', {
               timeout: 1500,
               type: 'success',
               onClose: () => {
